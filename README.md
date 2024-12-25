@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Style Issues
 
 A beginner-level task to practice fixing code style issues detected by code analysis tools.
@@ -245,3 +246,6 @@ All your changes are staged now.
 * Visual Studio
   * [Getting Started with Visual Studio 2019](https://www.youtube.com/watch?v=1CgsMtUmVgs)
   * [Default keyboard shortcuts in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/default-keyboard-shortcuts-in-visual-studio)
+=======
+# demo-git
+>>>>>>> 54d0bdd02711d956f639692350d54cf6d1155a2c
